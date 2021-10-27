@@ -1,0 +1,11 @@
+%dw 2.0
+
+type auto_0d2492c4_2eb2_461d_9277_61bdf89a0c18_Input_Payload = {
+  firstName: String, 
+  lastName: String, 
+  emailAddress: String, 
+  custId: String, 
+  phoneNo: String, 
+  _?: Any
+}
+
